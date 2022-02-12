@@ -5,7 +5,6 @@ As a dev, learning is one of the most wanted skills as new things keep coming ou
 - relearn a lot of things
 - learn how to tell your own stories
 - learn how to interview
-- and more....
 
 But do you ever wonder how do we learn at the best? To learn that you need to learn how to learn (yeah kind of recursive, but I promise this is not an infinite loop). There are a lot of great courses out there, including one of my favourites: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn). I spend a few weeks completing this course and figuring out how I can utilize the knowledge to help my interview preparation.
 
