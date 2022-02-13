@@ -37,6 +37,6 @@ A lot of behavioural interviews start with "tell me about a time...." but this w
 This was a short conversation to wrap up the interview if you make it to this stage. The engineering director acts as closer to answering any questions and concerns I have. 
 
 
-### Sumamry
+### Summary
 
 So how to prepare for your interview for CircleCI. There isn't much to do to be honest, except being yourself. I don't think practice 200 LeetCode will help, but getting yourself prepare to express your thought and experiences might help. 
