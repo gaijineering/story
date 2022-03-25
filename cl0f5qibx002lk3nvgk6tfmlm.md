@@ -6,7 +6,7 @@
 3. Second technical round
 4. Tech lead round
 5. HR round
-6. Manager/VP round (coming soon)
+6. Manager/VP round 
 
 
 ### 1. Take-home assignment
@@ -38,13 +38,15 @@ Some questions that I asked:
 
 ### 6 Manager/VP round
 
-(coming soon)
+It took them around 2 weeks to schedule this round. This 30 minutes conversation contains a few short behavioural questions that focus on conflict resolution in your past experience. They also talked a lot about company cultures and key improvement areas. Because it's a very short interview and the interviewer seems really busy (stopped interview 1 minute before our time ends), I don't have much time to ask questions.
 
 ### Summary
 
-Woven Planet Holdings has one of the most humane interview processes compared to others. Instead of accessing candidates via crazy/stressful leetcode hardcoding, or designing a system that only scales theoretically, they do it in a better way like **short** take-home assignment and accessing past projects deeply. To prepare:
+Woven Planet Holdings has one of the most humane interview processes compared to others. Instead of accessing candidates via crazy/stressful leetcode hardcoding, or designing a system that only scales theoretically, they do it in a better way like **short** take-home assignment and accessing past projects deeply. On the other hand, they took really long time for the whole process. They only got back to me after 2 weeks (yeah another 2 weeks) of VP round.
+
+To prepare:
 
 - [domain knowledge](https://story.gaijineer.co/domain-knowledge)
-- review your own past experience (including story for behavioural)
+- review your own past experience (including a story for behavioural)
 
-will be the keys to success !
+will be the keys to becoming successful!
