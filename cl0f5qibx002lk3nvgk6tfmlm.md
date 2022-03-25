@@ -42,7 +42,7 @@ It took them around 2 weeks to schedule this round. This 30 minutes conversation
 
 ### Summary
 
-Woven Planet Holdings has one of the most humane interview processes compared to others. Instead of accessing candidates via crazy/stressful leetcode hardcoding, or designing a system that only scales theoretically, they do it in a better way like **short** take-home assignment and accessing past projects deeply. On the other hand, they took really long time for the whole process. They only got back to me after 2 weeks (yeah another 2 weeks) of VP round.
+Despite the [negative comment on reddit](https://www.reddit.com/r/japanlife/comments/pi6mdk/psa_i_wasted_months_interviewing_at_woven_planet/), I think the process has been improved over the year. In my opinion, Woven Planet Holdings has one of the most humane interview processes compared to others. Instead of accessing candidates via crazy/stressful leetcode hardcoding, or designing a system that only scales theoretically, they do it in a better way like **short** take-home assignment and accessing past projects deeply. On the other hand, they took really long time for the whole process. They only got back to me after 2 weeks (yeah another 2 weeks) of VP round.
 
 To prepare:
 
